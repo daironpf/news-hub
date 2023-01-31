@@ -19,8 +19,8 @@
   </parent>
 
   <modules>
-    <!--<module>language-service</module>
-    <module>category-service</module>-->
+    <module>language-service</module>
+<!--    <module>category-service</module>-->
   </modules>
 
   <properties>
