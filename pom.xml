@@ -19,8 +19,9 @@
   </parent>
 
   <modules>
-    <module>language-service</module>
     <module>discovery-server</module>
+    <module>language-service</module>
+
 
   </modules>
 
@@ -60,16 +61,4 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-
-<!--  <repositories>-->
-<!--    <repository>-->
-<!--      <id>netflix-candidates</id>-->
-<!--      <name>Netflix Candidates</name>-->
-<!--      <url>https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates</url>-->
-<!--      <snapshots>-->
-<!--        <enabled>false</enabled>-->
-<!--      </snapshots>-->
-<!--    </repository>-->
-<!--  </repositories>-->
-
 </project>
