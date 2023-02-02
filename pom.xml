@@ -21,6 +21,7 @@
   <modules>
     <module>discovery-server</module>
     <module>language-service</module>
+    <module>tag-service</module>
 
 
   </modules>
