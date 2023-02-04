@@ -1,4 +1,4 @@
-package com.news.hub.categoryservice.dao;
+package com.post.hub.categoryservice.dao;
 
 import java.util.List;
 import java.util.Optional;

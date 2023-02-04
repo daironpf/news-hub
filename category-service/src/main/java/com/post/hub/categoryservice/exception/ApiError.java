@@ -1,4 +1,4 @@
-package com.news.hub.categoryservice.exception;
+package com.post.hub.categoryservice.exception;
 
 import java.time.LocalDateTime;
 

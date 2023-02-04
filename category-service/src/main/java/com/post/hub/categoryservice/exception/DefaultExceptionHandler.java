@@ -1,4 +1,4 @@
-package com.news.hub.categoryservice.exception;
+package com.post.hub.categoryservice.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

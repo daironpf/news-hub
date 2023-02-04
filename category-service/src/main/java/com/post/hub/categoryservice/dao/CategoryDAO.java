@@ -1,6 +1,6 @@
-package com.news.hub.categoryservice.dao;
+package com.post.hub.categoryservice.dao;
 
-import com.news.hub.categoryservice.model.Category;
+import com.post.hub.categoryservice.model.Category;
 
 import java.util.Optional;
 

@@ -1,6 +1,6 @@
-package com.news.hub.categoryservice.repository;
+package com.post.hub.categoryservice.repository;
 
-import com.news.hub.categoryservice.model.Category;
+import com.post.hub.categoryservice.model.Category;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 
 import java.util.Optional;

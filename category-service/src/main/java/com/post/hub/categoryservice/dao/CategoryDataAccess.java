@@ -1,7 +1,7 @@
-package com.news.hub.categoryservice.dao;
+package com.post.hub.categoryservice.dao;
 
-import com.news.hub.categoryservice.model.Category;
-import com.news.hub.categoryservice.repository.CategoryRepository;
+import com.post.hub.categoryservice.model.Category;
+import com.post.hub.categoryservice.repository.CategoryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.news.hub.categoryservice.model;
+package com.post.hub.categoryservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
