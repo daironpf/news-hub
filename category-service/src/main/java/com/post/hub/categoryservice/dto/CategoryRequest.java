@@ -1,7 +1,6 @@
 package com.post.hub.categoryservice.dto;
 
 public record CategoryRequest(
-        String id,
         String name,
         String url,
         String description,

@@ -9,4 +9,7 @@ public interface CategoryDAO extends GenericDAO<Category,String>{
     Optional<Category> findByUrl(String url);
     boolean existsCategoryByUrl(String url);
     boolean existsCategoryById(String id);
+    Optional<Category> existsCategoriesByNameInLanguageById(String name, String idLanguage);
+
+    Optional<Category> createRelationshipCategoryInLanguage(String idCategory, String idLanguage);
 }

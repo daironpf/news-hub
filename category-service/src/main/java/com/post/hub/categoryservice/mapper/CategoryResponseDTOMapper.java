@@ -1,5 +1,6 @@
 package com.post.hub.categoryservice.mapper;
 
+import com.post.hub.categoryservice.dto.CategoryRequest;
 import com.post.hub.categoryservice.dto.CategoryResponse;
 import com.post.hub.categoryservice.model.Category;
 import org.springframework.stereotype.Service;
