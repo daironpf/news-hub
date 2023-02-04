@@ -1,4 +1,4 @@
-package com.news.hub.tagservice;
+package com.post.hub.tagservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
